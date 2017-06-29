@@ -1,0 +1,12 @@
+node_modules/
+build/
+bower_components/
+.env
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+temp/
+tmp/
